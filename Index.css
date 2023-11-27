@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'IM Fell French Canon';
+}
+body{
+    background: #fff;
+    width: 1024PX;
+}
+header{
+    background-color: #fff;
+    width: 100%;
+    height: 60px;
+    box-shadow: 0 3px 10px;
+    display: flex;
+    align-items: center;
+}
+header li{
+    display: flex;
+    align-items: center;
+}
+.Menu{
+    height: 45px;
+    width: 45px;
+
+    border: none;
+    background: #fff;
+    cursor: pointer;
+}
+.Menu img{
+    height: 45px;
+    width: 45px;
+}
+.Contatos{
+
+}
+.Contatos img{
+    height: 45px;
+    width: 45px;
+}
+.Contatos a{
+    margin: 0 10px 0 0;
+}
+.Logo{
+    width: 113px;
+    height: 40px;
+    font-size: 27.7px;
+    background: #fff;
+    border: none;
+    cursor: pointer;
+
+}
+.Navegadores{
+
+}
+.Navegadores a{
+    text-decoration: none;
+    color: black;
+    font-size: 23px;
+}
+.Navegadores img{
+    height: 45px;
+    width: 45px;
+    background: #fff;
+    border: none;
+    cursor: pointer;
+}
+.Navegadores button{
+    background: #fff;
+    border: none;
+    cursor: pointer;
+
+}
+.Loja{
+    background: #D9D9D9;
+    width: 663px;
+    height: 1000vh;
+
+    margin-top: 90px;
+}
+.Apresentaçao{
+    display: flex;
+    margin-bottom: 90px;
+}
+.Apresentaçao img{
+    max-width: 600px;
+    min-width: 350px;
+    max-height: 460px;
+    min-height: 160px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+.Sobre{
+    width: 515px;
+    height: 130px;
+    padding-top: 90px;
+}
+.DisplayFLAX{
+    display: flex;
+    padding-left: ;
+}
+.Sobre h1{
+    font-size: 34px;
+    margin-bottom: 25px;
+}
+.Sobre p{
+    text-align: center;
+}
+.Iten{
+    width: 220px;
+    height: 260px;
+    background: red;
+    list-style: none;
+}
